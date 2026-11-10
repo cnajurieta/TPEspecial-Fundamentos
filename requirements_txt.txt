@@ -1,0 +1,13 @@
+# Entorno de ejecución
+jupyter
+
+# Manipulación y análisis de datos
+pandas
+numpy
+
+# Visualización de datos
+matplotlib
+seaborn
+
+# Pruebas estadísticas y validación de hipótesis
+scipy
